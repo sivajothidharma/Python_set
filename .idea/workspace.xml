@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643c741c-92ce-4904-b738-6dfa83dac416" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SetsInPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    <list default="true" id="643c741c-92ce-4904-b738-6dfa83dac416" name="Changes" comment="The Sample SET function project created and functions are added in this program.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Set.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +21,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sivajothidharma"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sivajothidharma/Python_set.git",
+    "accountId": "927482cf-ec33-43a1-9f17-9623843ee89c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5,
   "fromUser": false
@@ -52,6 +64,12 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -69,10 +87,39 @@
       <option name="presentableId" value="Default" />
       <updated>1795163875757</updated>
     </task>
+    <task id="LOCAL-00001" summary="The Sample SET function project created and functions are added in this program.">
+      <option name="closed" value="true" />
+      <created>1795175330662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795175330662</updated>
+    </task>
+    <task id="LOCAL-00002" summary="The Sample SET function project created and functions are added in this program.">
+      <option name="closed" value="true" />
+      <created>1795175341073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1795175341073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="The Sample SET function project created and functions are added in this program.">
+      <option name="closed" value="true" />
+      <created>1795175598933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1795175598933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The Sample SET function project created and functions are added in this program." />
+    <option name="LAST_COMMIT_MESSAGE" value="The Sample SET function project created and functions are added in this program." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -9,7 +9,7 @@
 #Set is mutable
 #is it possible to make it immutable?
 #Yes, it's possible. Run frozenset function it will make it immutable
-'''
+
 set2= {10,12, 9, 50}
 list2=[10,12, 9, 50]
 tuple2=(10,12, 9, 50)
@@ -26,7 +26,7 @@ set2=set(str1) #Covert the string into set value
 print("The string to set Conversition value is: ",set2)
 #O/P: The string to set Conversition value is:  {'h', 'j', 'i', 's', 'v', 'o', 't', 'a'}
 print("The type of string is :",type(set2))
-'''
+
 from re import search
 
 set1={10,20,23,12,10,12,15,50,100}
@@ -45,13 +45,13 @@ print("The Sorted no of unike elements of Set is: ",sort)
 #Set doens't allow to search the elements by index value
 #print(set1[0]) - this function not allowed
 #Searching
-'''
+
 search=int(input("Enter the number to search for: "))
 if search in set1:
     print("The entered no found in the set: ",search)
 else:
     print("The entered no not found in the sets: ",search)
-'''
+
 #Adding an element
 set1.add(14)
 print("Adding the value in the set is: ",set1)
